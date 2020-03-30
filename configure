@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "Installing incron via apt-get"
+sudo apt-get -y install incron
+
+
